@@ -16,10 +16,3 @@ void main() {
     ),
   );
 }
-
-/*GradientContainer(
-           [
-            Color.fromARGB(255, 57, 26, 109),
-            Colors.deepPurple, 
-            Color.fromARGB(255, 118, 77, 189)
-        ]),*/
